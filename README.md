@@ -2,13 +2,13 @@
 
 <p align='center'>
   <a href="mailto:rhunt04@gmail.com">
-    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/email.png?raw=true">
+    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/em.png?raw=true">
   </a>&nbsp;
   <a href="https://twitter.com/Dr_RJH">
-    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/twitter.png?raw=true">
+    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/tw.png?raw=true">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/ryan-hunt-9b3767132">
-    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/linkedin.png?raw=true">
+    <img height="40" src="https://github.com/rhunt04/rhunt04/blob/master/images/li.png?raw=true">
   </a>
 </p>
 
