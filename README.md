@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ryan. 
+### Hi there 👋, I'm Ryan.
 
 <p align='center'>
   <a href="mailto:rhunt04@gmail.com">📧</a>&nbsp;
@@ -9,5 +9,5 @@
   <a href="https://www.strava.com/athletes/34198263">🏃</a>
 </p>
 
-I'm a postdoc at Lancaster University, with a couple of hobbies.
+I'm a Data Scientist, with a couple of hobbies.
 Connect with me using the above links!
